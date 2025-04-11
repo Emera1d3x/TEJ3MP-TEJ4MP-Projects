@@ -1,0 +1,4 @@
+MVI A,F2H
+SUI 57
+MOV B,A
+HLT
